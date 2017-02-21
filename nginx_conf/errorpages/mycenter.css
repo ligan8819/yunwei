@@ -1,0 +1,36 @@
+﻿
+/*订单提交页面*/
+.submit_page .tishi_box{ background:#FFF; border-bottom:1px solid #d7d7d7; text-align:center; padding:50px 0px;  font-size:22px; vertical-align:middle;}
+.submit_page dl{ width:255px; margin:0 auto; }
+.submit_page dl dt.succeed{ float:left; background:url(../images/succeed.png) no-repeat center / 32px 32px; width:32px; height:32px; display:inline-block; vertical-align:middle; margin-right:10px; margin-top:18px;}
+.submit_page dl dt.failure{ float:left; background:url(../images/failure.png) no-repeat center / 32px 32px; width:32px; height:32px; display:inline-block; vertical-align:middle; margin-right:10px; margin-top:18px;}
+.submit_page dl dd{ padding-left:36px; text-align:left; line-height:32px;}
+.submit_page dl dd.cont2{ font-size:15px; color:#666; padding-left:40px;}
+.submit_page .btn{color:#fff; width:120px; height:40px; line-height:40px; text-align:center; display:inline-block; border-radius:3px; font-size:18px;}
+.submit_page .btn1{ background:#ffb230;}
+.submit_page .btn2{ background:#ff7506; margin-left:5px;}
+.submit_page .btn3{ background:#ff7506; margin-left:5px; width:130px;}
+.submit_page .succeed2{ background:url(../images/succeed.png) no-repeat center / 24px 24px; width:24px; height:24px; display:inline-block; vertical-align:middle; margin-right:10px; margin-top:-2px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
